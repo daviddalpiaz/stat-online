@@ -1,10 +1,6 @@
 # Statistics Online
 
-> Don't panic!
-
 The following is a short collection of notes and thoughts on quickly transitioning to 100% online delivery of Statistics courses at the University of Illinois at Urbana-Champaign during the Spring 2020 outbreak of [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.html).
-
-***
 
 ## University Resources
 
@@ -57,3 +53,15 @@ The following is a short collection of notes and thoughts on quickly transitioni
 - ProctorU
 - Zoom
 - ???
+
+## Faculty "Advisors"
+
+The following are experienced online instructors and support staff. Reach out if you have questions. Several of us are very active on Slack.
+
+- David Dalpiaz (STAT 420, STAT 432)
+- David Unger (STAT 420, STAT 440)
+- Dirk Eddelbuettel (STAT 430 DSPM)
+- Feng Liang (STAT 542)
+- Trevor Park (STAT 579)
+- Yuk Yung Liu (E-Learning Specialist)
+- Ha Khanh Nguyen (Data Science Support Specialist)
