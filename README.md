@@ -10,6 +10,12 @@ The following is a short collection of notes and thoughts on quickly transitioni
 - [Engineering IT: Keep Teaching](https://it.engineering.illinois.edu/keepteaching)
 - [CITL: Instructional Continuity](https://ops.citl.illinois.edu/)
 
+## General Advice
+
+- Don't panic.
+- Perfect is the enemy of good.
+- Ask questions on Slack!
+
 ## Quick-Start Checklist
 
 - [ ] Is your class in a Learning Management System?
@@ -19,9 +25,26 @@ The following is a short collection of notes and thoughts on quickly transitioni
 - [ ] Do students have the ability to submit assignments to you?
 - [ ] Do you have the ability to create pre-recorded video lectures?
 - [ ] Can you run fully online synchronous office hours or lectures?
-- [ ] **Do you have a plan for administering exams?**
+- [ ] Do you have an assignment strategy?
+- [ ] *Do you have a plan for administering exams?*
 - [ ] Do you have access to a high speed internet connection?
 - [ ] Do you have the necessary computer hardware?
+
+## Learning Management System
+
+- Compass
+- Canvas
+- Moodle
+
+## Course Communications
+
+- Weekly announcements!
+  - Roster access?
+    - Via LMS automatic rostering
+    - Via [DMI](http://dmi.illinois.edu/)
+    - Via [Self-Serice](https://apps.uillinois.edu/selfservice/)
+- [Piazza](https://piazza.com/)
+  - Highly recommended!
 
 ## Hardware
 
@@ -36,13 +59,15 @@ Hardware components that may be necessary:
 - Laptop (or desktop)
   - [ATLAS Share](https://atlas.illinois.edu/student-information/atlas-share)
 - iPad or Tablet
-  - Department Surfaces Tablets
-- High-spped internet connection
+  - Department Surface Tablets are available
+- High-speed internet connection
 - Webcam
 - Microphone (could be build into webcam)
 - Headphones
 	- Ever been annoyed by background noise in a web meeting?
 	- Otherwise, speakers
+	
+If in need of technology that you do not currently have, contact Melissa.
 
 ## Key Software
 
@@ -51,19 +76,14 @@ Hardware components that may be necessary:
    - Naive version control.
    - Does not require VPN.
 - [Illinois Zoom](https://illinois.zoom.us/)
+  - University wide "Pro" license
 
 ## Additional Software
 
 - [UIUC VPN](https://techservices.illinois.edu/services/virtual-private-networking-vpn/download-and-set-up-the-vpn-client)
   - Avoid if possible. For example, use Box instead of the network drive.
-
 - [GoodNotes](https://www.goodnotes.com/)
-
-## Learning Management System
-
-- Compass
-- Canvas
-- Moodle
+  - Excellent app for notes and annotation on iPad
 
 ## Office Hours
 
@@ -77,16 +97,9 @@ Hardware components that may be necessary:
 
 ## "Lecture"
 
-- Synchronous versus Asynchronous
-
-## Department Communications
-
-- [Slack](https://uiucstats.slack.com/archives/GNXPYSBL3)
-
-## Course Communications
-
-- Weekly announcements
-- [Piazza](https://piazza.com/)
+- Synchronous versus Asynchronous?
+  - Don't be afraid of asynchronous
+  - Use Zoom for synchronous
 
 ## Video Recording
 
@@ -101,13 +114,18 @@ Hardware components that may be necessary:
 
 - [Illinois Media Space](https://mediaspace.illinois.edu/)
 - YouTube
-  - Potentially inaccessible.
+  - Potentially inaccessible. Technically not recommended.
 
 ## Exams
 
 - [Illinois ProctorU](https://www.proctoru.com/portal/illinois)
-- Zoom
+- Zoom "Proctoring"
+- Make alternative assessments
 - ???
+
+## Department Communications
+
+- [Slack](https://uiucstats.slack.com/archives/GNXPYSBL3)
 
 ## Faculty "Advisors"
 
@@ -117,10 +135,15 @@ The following are experienced online instructors and support staff. Reach out if
 - David Unger (STAT 420, STAT 440)
 - Dirk Eddelbuettel (STAT 430 DSPM)
 - Feng Liang (STAT 542)
-- Trevor Park (STAT 579)
-- Yuk Yung Liu (E-Learning Specialist)
+- Trevor Park (STAT 578)
+- Yuk Yung Liu (E-Learning Specialist, STAT 100, STAT 200)
 - Ha Khanh Nguyen (Data Science Support Specialist)
 
 ## TODO
 
 - Discuss accessibility. (PDF and HTML versus other formats.)
+- Phone PDF apps
+  - https://fossbytes.com/best-android-scanner-apps/
+  - https://www.techjeny.org/best-document-scanner-app-iphone-ipad/
+    - also built in
+- quizzing tools
