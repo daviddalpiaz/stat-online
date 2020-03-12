@@ -123,7 +123,7 @@ If in need of technology that you do not currently have, contact Melissa.
 - [YouTube](https://www.youtube.com/)
   - Potentially inaccessible in China. Technically not recommended. Could be used as a backup to Illini Media Space.
 
-Be aware of closed captioning. You may have received an email from DRES noting that you have a student that requires captioning. YouTube does auto-captioning fairly well. [Kaltura](https://mediaspace.illinois.edu/media/t/1_rjko9fw3/33192941) also has auto-captioning abilites now.
+Be aware of closed captioning. You may have received an email from DRES noting that you have a student that requires captioning. YouTube does auto-captioning fairly well. [Kaltura](https://mediaspace.illinois.edu/media/t/1_rjko9fw3/33192941) also has auto-captioning abilities now.
 
 ## Exams
 
