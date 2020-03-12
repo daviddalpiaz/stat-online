@@ -2,6 +2,8 @@
 
 The following is a short collection of notes and thoughts on quickly transitioning to 100% online delivery of Statistics courses at the University of Illinois at Urbana-Champaign during the Spring 2020 outbreak of [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.html).
 
+- If you have additional information you would like added, please submit a pull request, create an issue, or just [email Dalpiaz](mailto:dalpiaz2@illinois.edu).
+
 ## University Resources
 
 - [COVID-19 @ Illinois](https://covid19.illinois.edu/)
