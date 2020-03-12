@@ -4,7 +4,19 @@ The following is a short collection of notes and thoughts on quickly transitioni
 
 ***
 
+## University Resources
+
+- https://covid19.illinois.edu/
+- https://it.engineering.illinois.edu/keepteaching
+- https://ops.citl.illinois.edu/
+
 ## Hardware
+
+- Laptop (or desktop)
+- Internet connection
+- Webcam
+- Microphone
+- Headphones (or speakers)
 
 ## Software
 
@@ -14,4 +26,13 @@ The following is a short collection of notes and thoughts on quickly transitioni
 
 ## "Lecture"
 
+## Course Communications
+
+- Weekly announcements
+- Piazza
+
 ## Video Recordings
+
+
+
+
