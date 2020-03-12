@@ -10,26 +10,39 @@ The following is a short collection of notes and thoughts on quickly transitioni
 - [Engineering IT: Keep Teaching](https://it.engineering.illinois.edu/keepteaching)
 - [CITL: Instructional Continuity](https://ops.citl.illinois.edu/)
 
-## Quick-Start Checlist
+## Quick-Start Checklist
 
-- [ ] Item 1
-- [ ] Item 2
+- [ ] Is your class in a Learning Management System?
+- [ ] Are you able to make announcements to your (up-to-date) class roster?
+- [ ] Can your students communicate with you? With each other?
+- [ ] Can you distribute files to students?
+- [ ] Do students have the ability to submit assignments to you?
+- [ ] Do you have the ability to create pre-recorded video lectures?
+- [ ] Can you run fully online synchronous office hours or lectures?
+- [ ] **Do you have a plan for administering exams?**
+- [ ] Do you have access to a high speed internet connection?
+- [ ] Do you have the necessary computer hardware?
 
 ## Hardware
 
+In addition to access to a computer and an internet connection, you will need to be able to:
+
+- Listen to audio
+- Record audio
+- Record video
+
+Hardware components that may be necessary:
+
 - Laptop (or desktop)
   - [ATLAS Share](https://atlas.illinois.edu/student-information/atlas-share)
-  - iPad or Tablet
-- Internet connection
-	- [UIUC VPN](https://techservices.illinois.edu/services/virtual-private-networking-vpn/download-and-set-up-the-vpn-client)
-		- Avoid if possible. For example, use Box instead of the network drive.
+- iPad or Tablet
+  - Department Surfaces Tablets
+- High-spped internet connection
 - Webcam
-- Microphone
-	- Could be build into webcam
+- Microphone (could be build into webcam)
 - Headphones
 	- Ever been annoyed by background noise in a web meeting?
 	- Otherwise, speakers
-- Department Surfaces Tablets
 
 ## Key Software
 
@@ -40,6 +53,9 @@ The following is a short collection of notes and thoughts on quickly transitioni
 - [Illinois Zoom](https://illinois.zoom.us/)
 
 ## Additional Software
+
+- [UIUC VPN](https://techservices.illinois.edu/services/virtual-private-networking-vpn/download-and-set-up-the-vpn-client)
+  - Avoid if possible. For example, use Box instead of the network drive.
 
 - [GoodNotes](https://www.goodnotes.com/)
 
@@ -56,13 +72,14 @@ The following is a short collection of notes and thoughts on quickly transitioni
     - Consider disabling email notifications when users join.
     - Consider enabling "Mute participants upon entry."
   - Be aware of Screen Sharing and "Whiteboard."
-  - Can be recorded
+  - As "host" you have the ability to mute other users. Use this!
+  - Can be recorded.
 
 ## "Lecture"
 
 - Synchronous versus Asynchronous
 
-## Deparment Communications
+## Department Communications
 
 - [Slack](https://uiucstats.slack.com/archives/GNXPYSBL3)
 
@@ -84,7 +101,7 @@ The following is a short collection of notes and thoughts on quickly transitioni
 
 - [Illinois Media Space](https://mediaspace.illinois.edu/)
 - YouTube
-  - Potentially inaccessable.
+  - Potentially inaccessible.
 
 ## Exams
 
@@ -103,3 +120,7 @@ The following are experienced online instructors and support staff. Reach out if
 - Trevor Park (STAT 579)
 - Yuk Yung Liu (E-Learning Specialist)
 - Ha Khanh Nguyen (Data Science Support Specialist)
+
+## TODO
+
+- Discuss accessibility. (PDF and HTML versus other formats.)
