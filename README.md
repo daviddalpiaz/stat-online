@@ -8,26 +8,39 @@ The following is a short collection of notes and thoughts on quickly transitioni
 
 ## University Resources
 
-- https://covid19.illinois.edu/
-- https://it.engineering.illinois.edu/keepteaching
-- https://ops.citl.illinois.edu/
+- [COVID-19 @ Illinois](https://covid19.illinois.edu/)
+- [Engineering IT: Keep Teaching](https://it.engineering.illinois.edu/keepteaching)
+- [CITL: Instructional Continuity](https://ops.citl.illinois.edu/)
 
 ## Hardware
 
 - Laptop (or desktop)
-  - https://atlas.illinois.edu/student-information/atlas-share
+  - [ATLAS Share](https://atlas.illinois.edu/student-information/atlas-share)
 - Internet connection
+	- [UIUC VPN](https://techservices.illinois.edu/services/virtual-private-networking-vpn/download-and-set-up-the-vpn-client)
+		- Avoid if possible. For example, use Box instead of the network drive.
 - Webcam
 - Microphone
-- Headphones (or speakers)
+	- Could be build into webcam
+- Headphones
+	- Ever been annoyed by background noise in a web meeting?
+	- Otherwise, speakers
+- Department Surfaces Tablets
 
 ## Software
+
+- Illinois Box!!!
+- Illinois Zoom!!!
 
 ## LMS
 
 ## Office Hours
 
 ## "Lecture"
+
+## Deparment Communications
+
+- Slack!!!
 
 ## Course Communications
 
@@ -36,6 +49,11 @@ The following is a short collection of notes and thoughts on quickly transitioni
 
 ## Video Recordings
 
+- How to record?
+- Where to post?
 
+## Exams
 
-
+- ProctorU
+- Zoom
+- ???
