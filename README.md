@@ -52,7 +52,7 @@ The following is a short collection of notes and thoughts on quickly transitioni
 
 ## Exams
 
-- ProctorU
+- [Illinois ProctorU](https://www.proctoru.com/portal/illinois)
 - Zoom
 - ???
 
