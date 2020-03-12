@@ -15,6 +15,7 @@ The following is a short collection of notes and thoughts on quickly transitioni
 ## Hardware
 
 - Laptop (or desktop)
+  - https://atlas.illinois.edu/student-information/atlas-share
 - Internet connection
 - Webcam
 - Microphone
