@@ -43,7 +43,7 @@ The following is a short collection of notes and thoughts on quickly transitioni
 - Weekly announcements!
   - Introduce week's topics, note deadlines.
   - Roster access? Copy to student email!
-    - Via LMS automatic rostering
+    - Via LMS automatic rosters
     - Via [DMI](http://dmi.illinois.edu/)
     - Via [Self-Serice](https://apps.uillinois.edu/selfservice/)
 - [Piazza](https://piazza.com/)
@@ -105,7 +105,7 @@ If in need of technology that you do not currently have, contact Melissa.
 
 - Synchronous versus Asynchronous?
   - Don't be afraid of asynchronous
-  - Use Zoom for synchronous
+  - Use Zoom for synchronous. But this is strongly discouraged, especially for "large" classes.
 
 ## Video Recording
 
@@ -125,7 +125,8 @@ If in need of technology that you do not currently have, contact Melissa.
 
 ## Exams
 
-- [Illinois ProctorU](https://www.proctoru.com/portal/illinois)
+- [Illinois ProctorU](https://www.proctoru.com/portal/illinois) 
+  - Note: The Provost will be prohibiting additional fees incurred by students. (More information to come on this.)
 - Zoom "Manual Proctoring"
 - Make alternative assessments!
 - ???
@@ -156,3 +157,5 @@ The following are experienced online instructors and support staff. Reach out if
 - quizzing tools, PL, Lon Capa, Etc.
 - webtools
 - https://twitter.com/LISafterclass/status/1238117563466313736
+- GitHub classroom
+- RStudio Cloud
