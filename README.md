@@ -14,6 +14,7 @@ The following is a short collection of notes and thoughts on quickly transitioni
 
 - Don't panic.
 - Perfect is the enemy of good.
+- You're probably already 50% of the way there.
 - Ask questions on Slack!
 
 ## Quick-Start Checklist
@@ -35,11 +36,13 @@ The following is a short collection of notes and thoughts on quickly transitioni
 - Compass
 - Canvas
 - Moodle
+- Others
 
 ## Course Communications
 
 - Weekly announcements!
-  - Roster access?
+  - Introduce week's topics, note deadlines.
+  - Roster access? Copy to student email!
     - Via LMS automatic rostering
     - Via [DMI](http://dmi.illinois.edu/)
     - Via [Self-Serice](https://apps.uillinois.edu/selfservice/)
@@ -82,8 +85,11 @@ If in need of technology that you do not currently have, contact Melissa.
 
 - [UIUC VPN](https://techservices.illinois.edu/services/virtual-private-networking-vpn/download-and-set-up-the-vpn-client)
   - Avoid if possible. For example, use Box instead of the network drive.
+- [Remote Desktop](https://answers.uillinois.edu/illinois/page.php?id=47684)
 - [GoodNotes](https://www.goodnotes.com/)
   - Excellent app for notes and annotation on iPad
+- [PrairieLearn](https://prairielearn.engr.illinois.edu/pl/)
+- [Blackboard Collaborate Ultra](https://help.blackboard.com/Collaborate/Ultra)
 
 ## Office Hours
 
@@ -113,14 +119,15 @@ If in need of technology that you do not currently have, contact Melissa.
 ## Video Distribution
 
 - [Illinois Media Space](https://mediaspace.illinois.edu/)
-- YouTube
+- [Illinois Box](https://box.illinois.edu/)
+- [YouTube](https://www.youtube.com/)
   - Potentially inaccessible. Technically not recommended.
 
 ## Exams
 
 - [Illinois ProctorU](https://www.proctoru.com/portal/illinois)
-- Zoom "Proctoring"
-- Make alternative assessments
+- Zoom "Manual Proctoring"
+- Make alternative assessments!
 - ???
 
 ## Department Communications
@@ -146,4 +153,6 @@ The following are experienced online instructors and support staff. Reach out if
   - https://fossbytes.com/best-android-scanner-apps/
   - https://www.techjeny.org/best-document-scanner-app-iphone-ipad/
     - also built in
-- quizzing tools
+- quizzing tools, PL, Lon Capa, Etc.
+- webtools
+- https://twitter.com/LISafterclass/status/1238117563466313736
