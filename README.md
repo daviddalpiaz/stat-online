@@ -10,10 +10,16 @@ The following is a short collection of notes and thoughts on quickly transitioni
 - [Engineering IT: Keep Teaching](https://it.engineering.illinois.edu/keepteaching)
 - [CITL: Instructional Continuity](https://ops.citl.illinois.edu/)
 
+## Quick-Start Checlist
+
+- [ ] Item 1
+- [ ] Item 2
+
 ## Hardware
 
 - Laptop (or desktop)
   - [ATLAS Share](https://atlas.illinois.edu/student-information/atlas-share)
+  - iPad or Tablet
 - Internet connection
 	- [UIUC VPN](https://techservices.illinois.edu/services/virtual-private-networking-vpn/download-and-set-up-the-vpn-client)
 		- Avoid if possible. For example, use Box instead of the network drive.
@@ -25,30 +31,60 @@ The following is a short collection of notes and thoughts on quickly transitioni
 	- Otherwise, speakers
 - Department Surfaces Tablets
 
-## Software
+## Key Software
 
-- Illinois Box!!!
-- Illinois Zoom!!!
+- [Illinois Box](https://box.illinois.edu/)
+   - Free unlimited storage!
+   - Naive version control.
+   - Does not require VPN.
+- [Illinois Zoom](https://illinois.zoom.us/)
 
-## LMS
+## Additional Software
+
+- [GoodNotes](https://www.goodnotes.com/)
+
+## Learning Management System
+
+- Compass
+- Canvas
+- Moodle
 
 ## Office Hours
 
+- [Illinois Zoom](https://illinois.zoom.us/)
+  - Be aware of [general settings](https://illinois.zoom.us/profile/setting) and meeting settings.
+    - Consider disabling email notifications when users join.
+    - Consider enabling "Mute participants upon entry."
+  - Be aware of Screen Sharing and "Whiteboard."
+  - Can be recorded
+
 ## "Lecture"
+
+- Synchronous versus Asynchronous
 
 ## Deparment Communications
 
-- Slack!!!
+- [Slack](https://uiucstats.slack.com/archives/GNXPYSBL3)
 
 ## Course Communications
 
 - Weekly announcements
-- Piazza
+- [Piazza](https://piazza.com/)
 
-## Video Recordings
+## Video Recording
 
-- How to record?
-- Where to post?
+- [Illinois Media Space: Express Capture](https://mediaspace.illinois.edu/recorder/index/record)
+- [Illinois Media Space: Kaltura Capture Desktop Recorder](https://mediaspace.illinois.edu/kalturacapture/launch/create)
+- [Illinois Zoom](https://illinois.zoom.us/)
+- [Screencast-O-Matic](https://screencast-o-matic.com/)
+- [OSX: Screen Recorder](https://support.apple.com/en-us/HT208721)
+- [iOS: Screen Recorder](https://support.apple.com/en-us/HT207935)
+
+## Video Distribution
+
+- [Illinois Media Space](https://mediaspace.illinois.edu/)
+- YouTube
+  - Potentially inaccessable.
 
 ## Exams
 
