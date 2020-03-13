@@ -130,6 +130,7 @@ Zoom will likely be the key to holding online office hours.
 - [Illinois Media Space: Kaltura Capture Desktop Recorder](https://mediaspace.illinois.edu/kalturacapture/launch/create)
 - [Illinois Zoom](https://illinois.zoom.us/)
 - [Screencast-O-Matic](https://screencast-o-matic.com/)
+- [Windows 10: Screen Recorder](https://www.pcmag.com/how-to/how-to-capture-video-clips-in-windows-10)
 - [OSX: Screen Recorder](https://support.apple.com/en-us/HT208721)
 - [iOS: Screen Recorder](https://support.apple.com/en-us/HT207935)
 
