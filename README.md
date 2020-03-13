@@ -197,3 +197,5 @@ This section tracks additional items that are not currently tracked anywhere abo
 - https://twitter.com/LISafterclass/status/1238117563466313736
 - [GitHub Classroom](https://classroom.github.com/)
 - [RStudio Cloud](https://rstudio.cloud/)
+- Document camera?
+- "Pen and paper" office hours
