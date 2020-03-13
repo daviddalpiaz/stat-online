@@ -111,6 +111,7 @@ This list is far from exhaustive and should grow over time.
 Zoom will likely be the key to holding online office hours.
 
 - [Illinois Zoom](https://illinois.zoom.us/)
+  - Be sure to use this link to create and use your account. Free accounts do not have the same capacities.
   - Be aware of [general settings](https://illinois.zoom.us/profile/setting) and meeting settings.
     - Consider disabling email notifications when users join.
     - Consider enabling "Mute participants upon entry."
@@ -123,6 +124,8 @@ Zoom will likely be the key to holding online office hours.
 - Synchronous versus Asynchronous?
   - Don't be afraid of asynchronous
   - Use Zoom for synchronous. But this is strongly discouraged, especially for "large" classes.
+    - "Any synchronous course sessions (such as Zoom, Skype for Business, Blackboard Collaborate) must be held during regularly scheduled class times."
+    - "Do not use Zoom for classes of greater than 150 students. Use video, audio or text options for lecture delivery whenever possible."
 
 ## Video Recording
 
@@ -152,7 +155,7 @@ Be aware of closed captioning. You may have received an email from DRES noting t
 Securely administering exams online is extremely difficult. This is a topic that will need to be given thought. Unless you are already using a quizzing tool such as [PrairieLearn](https://prairielearn.engr.illinois.edu/pl/) or LON-CAPA, it would probably be very difficult to transition quickly. Even with these tools, proctoring will be an issue. We may need to relax some of our expectations around security of exams.
 
 - [Illinois ProctorU](https://www.proctoru.com/portal/illinois) 
-  - Note: The Provost will be prohibiting additional fees incurred by students. (More information to come on this.)
+  - Note: The Provost will be prohibiting additional fees incurred by students. (More information to come on this. As of 3/13, this is official, with a specific mention of proctoring services.)
 - Zoom "Manual Proctoring"
 - Make alternative assessments!
 - ???
@@ -200,3 +203,8 @@ This section tracks additional items that are not currently tracked anywhere abo
 - [RStudio Cloud](https://rstudio.cloud/)
 - Document camera?
 - "Pen and paper" office hours
+- FERPA
+
+
+
+
