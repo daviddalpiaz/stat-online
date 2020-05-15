@@ -204,7 +204,15 @@ This section tracks additional items that are not currently tracked anywhere abo
 - Document camera?
 - "Pen and paper" office hours
 - FERPA
+- OBS
+- https://citl.illinois.edu/about-citl/news/2020/04/28/citl-summer-2020-workshops---moving-your-course-online
+- https://atlas.illinois.edu/teaching-online
+- https://ops.citl.illinois.edu/
+- https://ops.citl.illinois.edu/for-students
+- https://www.lasonline.illinois.edu/faculty/policy/
+- https://github.com/enterprise
 
-
-
+- information about blended learning
+  - list of lecture capture enabled rooms: http://go.illinois.edu/LectureCapture
+  - schedule a one time recording: http://go.illinois.edu/LectureCaptureScheduling
 
