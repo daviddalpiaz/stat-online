@@ -1,4 +1,9 @@
-# Statistics Online
+<div align="center">
+<p>
+    <img width="320" src="https://raw.githubusercontent.com/daviddalpiaz/stat-online/master/wordmark.jpg?sanitize=true">
+</p>
+<h1>Statistics Online</h1>
+</div>
 
 The following is a short collection of notes and thoughts on quickly transitioning to 100% online delivery of Statistics courses at the University of Illinois at Urbana-Champaign during the Spring 2020 outbreak of [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.html).
 
@@ -32,7 +37,7 @@ The following is a short collection of notes and thoughts on quickly transitioni
 - [ ] Do you have access to a high speed internet connection?
 - [ ] Do you have the necessary computer hardware?
 
-## Learning Management System
+## Learning Management Systems
 
 - Compass (Blackboard)
 - Canvas
@@ -69,7 +74,7 @@ Hardware components that may be necessary:
   - Department Surface Tablets are available
 - High-speed internet connection
 - Webcam
-- Microphone (could be build into webcam)
+- Microphone (could be built into webcam)
 - Headphones
 	- Ever been annoyed by background noise in a web meeting?
 	- Otherwise, speakers
@@ -184,7 +189,7 @@ The following are experienced online instructors and support staff. Reach out if
   - Be yourself! Make mistakes!
 - Course organization: Week or module structure.
 - Clear messaging is necessary, especially for assignments and deadlines.
-- **Instructor presence is critical.**
+- **Instructor presence is critical.** (answer questions on piazza!)
 
 ## TODO
 
@@ -210,9 +215,13 @@ This section tracks additional items that are not currently tracked anywhere abo
 - https://ops.citl.illinois.edu/
 - https://ops.citl.illinois.edu/for-students
 - https://www.lasonline.illinois.edu/faculty/policy/
-- https://github.com/enterprise
-
+- https://github.com/enterprise (versus new campus license?)
+- gradescope (will it still be free to use?)
 - information about blended learning
   - list of lecture capture enabled rooms: http://go.illinois.edu/LectureCapture
   - schedule a one time recording: http://go.illinois.edu/LectureCaptureScheduling
-
+- Slack? Discord? (If not for whole class, for course staff communications)
+- github classroom
+- ffmpeg
+- notes about audio best practices (use headphones! speak close to the microphone.)
+- notes about video best practices (lighting for video.)
