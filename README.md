@@ -14,8 +14,6 @@
 
 </div>
 
-<hr style="height:1px"> 
-
 The following document describes some best practices, general wisdom, and various resources for teaching online courses for the [Department of Statistics](https://stat.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/).^[This document was originally created to address the needs of rapidly transitioning online during the [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.html) effected Spring 2020 semester.]
 
 - If you have additional information you would like added, please submit a pull request, create an issue, or just [email David Dalpiaz](mailto:dalpiaz2@illinois.edu).
