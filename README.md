@@ -1,62 +1,51 @@
 <div align="center">
 <p>
-    <img width="320" src="https://raw.githubusercontent.com/daviddalpiaz/stat-online/master/wordmark.jpg?sanitize=true">
+<img width="320" src="https://raw.githubusercontent.com/daviddalpiaz/stat-online/master/wordmark.jpg?sanitize=true">
 </p>
 <h1>Statistics Online</h1>
+
+<!-- [Quick Start](#quick-start) |
+[Best Practices](#best-practices) |
+[General Wisdom](#general-wisdom) |
+[Resources](#resources) |
+[Miscellaneous](#miscellaneous)
+
+-->
+
 </div>
 
-The following is a short collection of notes and thoughts on quickly transitioning to 100% online delivery of Statistics courses at the University of Illinois at Urbana-Champaign during the Spring 2020 outbreak of [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.html).
+<hr style="height:1px"> 
 
-- If you have additional information you would like added, please submit a pull request, create an issue, or just [email Dalpiaz](mailto:dalpiaz2@illinois.edu).
+The following document describes some best practices, general wisdom, and various resources for teaching online courses for the [Department of Statistics](https://stat.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/).^[This document was originally created to address the needs of rapidly transitioning online during the [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.html) effected Spring 2020 semester.]
+
+- If you have additional information you would like added, please submit a pull request, create an issue, or just [email David Dalpiaz](mailto:dalpiaz2@illinois.edu).
 - This document can be accessed at https://go.illinois.edu/stat-online
 
-## University Resources
+This document is now, and will likely always be a work in progress.
 
-- [COVID-19 @ Illinois](https://covid19.illinois.edu/)
-- [Engineering IT: Keep Teaching](https://it.engineering.illinois.edu/keepteaching)
-- [CITL: Instructional Continuity](https://ops.citl.illinois.edu/)
+## General Wisdom
 
-## General Advice
-
-- Don't panic.
-- Perfect is the enemy of good.
+- Organization! + Communication! + Engagement!
+- [Don't panic](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don't_Panic)
+- [KISS](https://en.wikipedia.org/wiki/KISS_principle)
+- [Perfect is the enemy of good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
 - You're probably already 50% of the way there.
-- Ask questions on Slack!
+- Ask questions!
+  - Stop by the Teaching Support Group meetings!
+  - Jump on [Slack](https://uiucstats.slack.com/archives/GNXPYSBL3) and ask a quick question!
 
-## Quick-Start Checklist
+## Quick Start
 
+- [ ] Do you have the necessary computer hardware, software, and internet connection?
 - [ ] Is your class in a Learning Management System?
-- [ ] Are you able to make announcements to your (up-to-date) class roster?
-- [ ] Can your students communicate with you? With each other?
 - [ ] Can you distribute files to students?
 - [ ] Do students have the ability to submit assignments to you?
-- [ ] Do you have the ability to create pre-recorded video lectures?
-- [ ] Can you run fully online synchronous office hours or lectures?
+- [ ] Are you able to make announcements to your (up-to-date) class roster?
+- [ ] Can your students communicate with you? With each other?
+- [ ] Do you have a system for creating and distributing asynchronous video lectures?
+- [ ] Do you have a system for synchronous office hours and other meetings?
 - [ ] Do you have an assignment strategy?
-- [ ] *Do you have a plan for administering exams?*
-- [ ] Do you have access to a high speed internet connection?
-- [ ] Do you have the necessary computer hardware?
-
-## Learning Management Systems
-
-- Compass (Blackboard)
-- Canvas
-- Moodle
-- Others
-
-## Course Communications
-
-Since you won't be seeing your students three times a week, alternative communication methods become extremely important.
-
-- Weekly announcements!
-  - Introduce week's topics, note deadlines.
-  - Roster access? Copy to student email!
-    - Via LMS automatic rosters
-    - Via [DMI](http://dmi.illinois.edu/)
-    - Via [Self-Serice](https://apps.uillinois.edu/selfservice/)
-- [Piazza](https://piazza.com/)
-  - Highly recommended!
-  - Encourage posting on Piazza to reduce email.
+- [ ] Do you have a plan for administering identity verified assignments?
 
 ## Hardware
 
@@ -78,17 +67,20 @@ Hardware components that may be necessary:
 - Headphones
 	- Ever been annoyed by background noise in a web meeting?
 	- Otherwise, speakers
+- TODO: Document camera
 	
 If in need of hardware that you do not currently have, contact Melissa.
 
-## Key Software
+## Software
+
+### Key Software
 
 In addition to an LMS (and Piazza if your chosen LMS does not have a forum), a course could probably be taken online with only these three tools.
 
 - [Illinois Zoom](https://illinois.zoom.us/)
   - Web conferencing software.
-  - Makes Skype look terrible.
   - University wide "Pro" license.
+  - Generally user friendly.
 - [Illinois Media Space](https://mediaspace.illinois.edu/)
   - A YouTube-like service maintained by the University.
   - Include a built-in web-based recording tool.
@@ -98,7 +90,7 @@ In addition to an LMS (and Piazza if your chosen LMS does not have a forum), a c
    - Naive version control.
    - Does not require VPN.
 
-## Additional Software
+### Additional Software
 
 This list is far from exhaustive and should grow over time.
 
@@ -109,7 +101,36 @@ This list is far from exhaustive and should grow over time.
 - [GoodNotes](https://www.goodnotes.com/)
   - Excellent app for notes and annotation on iPad
 - [PrairieLearn](https://prairielearn.engr.illinois.edu/pl/)
-- [Blackboard Collaborate Ultra](https://help.blackboard.com/Collaborate/Ultra)
+  - Excellent quizzing tool developed at UIUC.
+- [Screencast-O-Matic](https://screencast-o-matic.com/)
+  - Simple video recording and editing.
+- TODO: Slack
+- TODO: Discord
+- TODO: OBS
+- [GitHub Classroom](https://classroom.github.com/)
+- [RStudio Cloud](https://rstudio.cloud/)
+- TODO: ffmpeg
+
+## Learning Management Systems
+
+- Compass (Blackboard)
+- Canvas
+- Moodle
+- Others
+
+## Course Communications
+
+Since you won't be seeing your students three times a week, alternative communication methods become extremely important.
+
+- Weekly announcements!
+  - Introduce week's topics, note deadlines.
+  - Roster access? Copy to student email!
+    - Via LMS automatic rosters
+    - Via [DMI](http://dmi.illinois.edu/)
+    - Via [Self-Serice](https://apps.uillinois.edu/selfservice/)
+- [Piazza](https://piazza.com/)
+  - Highly recommended!
+  - Encourage posting on Piazza to reduce email.
 
 ## Office Hours
 
@@ -165,10 +186,6 @@ Securely administering exams online is extremely difficult. This is a topic that
 - Make alternative assessments!
 - ???
 
-## Department Communications
-
-- [Slack](https://uiucstats.slack.com/archives/GNXPYSBL3)
-
 ## Faculty "Advisors"
 
 The following are experienced online instructors and support staff. Reach out if you have questions. Several of us are very active on Slack.
@@ -181,19 +198,26 @@ The following are experienced online instructors and support staff. Reach out if
 - Yuk Yung Liu (E-Learning Specialist, STAT 100, STAT 200)
 - Ha Khanh Nguyen (Data Science Support Specialist)
 
-## Best Practices
+- TODO: Add all members of online task force.
 
-- KISS
+## Additional Resources
+
+- [COVID-19 @ Illinois](https://covid19.illinois.edu/)
+- [Engineering IT: Keep Teaching](https://it.engineering.illinois.edu/keepteaching)
+- [CITL: Instructional Continuity](https://ops.citl.illinois.edu/)
+
+## Miscelaneous Best Practices
+
 - Short versus long videos.
   - Pros and cons to both, but engaging videos are what really matters.
   - Be yourself! Make mistakes!
-- Course organization: Week or module structure.
+- Course organization: Week or modular structure.
 - Clear messaging is necessary, especially for assignments and deadlines.
 - **Instructor presence is critical.** (answer questions on piazza!)
 
-## TODO
+## Miscelaneous Notes
 
-This section tracks additional items that are not currently tracked anywhere above.
+This section tracks additional items that are not currently noted anywhere above.
 
 - Discuss accessibility. (PDF and HTML versus other formats.)
 - Phone PDF apps
@@ -204,12 +228,8 @@ This section tracks additional items that are not currently tracked anywhere abo
 - webtools (shortURLs)
   - https://webtools.illinois.edu/
 - https://twitter.com/LISafterclass/status/1238117563466313736
-- [GitHub Classroom](https://classroom.github.com/)
-- [RStudio Cloud](https://rstudio.cloud/)
-- Document camera?
 - "Pen and paper" office hours
 - FERPA
-- OBS
 - https://citl.illinois.edu/about-citl/news/2020/04/28/citl-summer-2020-workshops---moving-your-course-online
 - https://atlas.illinois.edu/teaching-online
 - https://ops.citl.illinois.edu/
@@ -221,7 +241,15 @@ This section tracks additional items that are not currently tracked anywhere abo
   - list of lecture capture enabled rooms: http://go.illinois.edu/LectureCapture
   - schedule a one time recording: http://go.illinois.edu/LectureCaptureScheduling
 - Slack? Discord? (If not for whole class, for course staff communications)
-- github classroom
-- ffmpeg
 - notes about audio best practices (use headphones! speak close to the microphone.)
 - notes about video best practices (lighting for video.)
+- https://go.citl.illinois.edu/keepteachingtutorials
+- https://citl.illinois.edu/citl-101/teaching-learning/resources/instructor-resources
+- If you are recording or transmitting audio while also listening to audio (for example, Zoom meetings) wear headphones! 
+- Given the most frequently used devices for accessing course content, consider using slide with a 16x9 aspect ratio rather than the sometimes common 4x3. 
+- provide examples of identity verified assignment solutions
+- notes about accessibility issues
+- notes about copyright issues
+- video distribution practices: Variable bitrate options, Download options, Captioning 
+- TODO: If you are recording or transmitting audio while also listening to audio (for example, Zoom meetings), wear headphones!
+- TODO: consider 16*9 slides.
