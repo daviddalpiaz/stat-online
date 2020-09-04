@@ -61,12 +61,15 @@ Hardware components that may be necessary:
   - Department Surface Tablets are available
 - High-speed internet connection
 - Webcam
+  - [Example: Logitech C920 PRO](https://www.logitech.com/en-us/product/hd-pro-webcam-c920)
 - Microphone (could be built into webcam)
+  - [Example: Tonor TC-777](https://www.tonormic.com/products/tonor-tc-777-usb-microphone)
 - Headphones
 	- Ever been annoyed by background noise in a web meeting?
 	- Otherwise, speakers
-- TODO: Document camera
-	
+- Document camera
+  - [Example: Longjoy LV-1010](http://www.longjoytech.com/lv-1010.html)
+
 If in need of hardware that you do not currently have, contact Melissa.
 
 ## Software
@@ -103,8 +106,11 @@ This list is far from exhaustive and should grow over time.
 - [Screencast-O-Matic](https://screencast-o-matic.com/)
   - Simple video recording and editing.
 - TODO: Slack
-- TODO: Discord
-- TODO: OBS
+- [Discord](https://discord.com/)
+  - A messaging platform particular popular among computer game players.
+- [OBS](https://obsproject.com/)
+  - Free and open source software for video recording and live streaming.
+  - Like Discord, OBS is popular among those who stream computer game play, giving it a large user base.
 - [GitHub Classroom](https://classroom.github.com/)
 - [RStudio Cloud](https://rstudio.cloud/)
 - TODO: ffmpeg
@@ -178,7 +184,7 @@ Be aware of closed captioning. You may have received an email from DRES noting t
 
 Securely administering exams online is extremely difficult. This is a topic that will need to be given thought. Unless you are already using a quizzing tool such as [PrairieLearn](https://prairielearn.engr.illinois.edu/pl/) or LON-CAPA, it would probably be very difficult to transition quickly. Even with these tools, proctoring will be an issue. We may need to relax some of our expectations around security of exams.
 
-- [Illinois ProctorU](https://www.proctoru.com/portal/illinois) 
+- [Illinois ProctorU](https://www.proctoru.com/portal/illinois)
   - Note: The Provost will be prohibiting additional fees incurred by students. (More information to come on this. As of 3/13, this is official, with a specific mention of proctoring services.)
 - Zoom "Manual Proctoring"
 - Make alternative assessments!
@@ -242,11 +248,11 @@ This section tracks additional items that are not currently noted anywhere above
 - notes about video best practices (lighting for video.)
 - https://go.citl.illinois.edu/keepteachingtutorials
 - https://citl.illinois.edu/citl-101/teaching-learning/resources/instructor-resources
-- If you are recording or transmitting audio while also listening to audio (for example, Zoom meetings) wear headphones! 
-- Given the most frequently used devices for accessing course content, consider using slide with a 16x9 aspect ratio rather than the sometimes common 4x3. 
+- If you are recording or transmitting audio while also listening to audio (for example, Zoom meetings) wear headphones!
+- Given the most frequently used devices for accessing course content, consider using slide with a 16x9 aspect ratio rather than the sometimes common 4x3.
 - provide examples of identity verified assignment solutions
 - notes about accessibility issues
 - notes about copyright issues
-- video distribution practices: Variable bitrate options, Download options, Captioning 
+- video distribution practices: Variable bitrate options, Download options, Captioning
 - TODO: If you are recording or transmitting audio while also listening to audio (for example, Zoom meetings), wear headphones!
 - TODO: consider 16*9 slides.
