@@ -21,7 +21,7 @@ The following document describes some best practices, general wisdom, and variou
 
 This document is now, and will likely always be a work in progress. 
 
-- **Note:** Minor edits were performed in Fall 2022, but beware of outdating information from Spring 2022 that is now likely out-of-date, for example references to Compass, Piazza, etc.
+- **Note:** Minor edits were performed in Fall 2022, but beware of outdated information from Spring 2020 that is now likely out-of-date, for example references to Compass, Piazza, etc.
 
 ## General Wisdom
 
