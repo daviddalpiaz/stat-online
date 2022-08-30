@@ -29,8 +29,6 @@ This document is now, and will likely always be a work in progress.
 - [Perfect is the enemy of good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
 - You're probably already 50% of the way there.
 - Ask questions!
-  - Stop by the Teaching Support Group meetings!
-  - Jump on [Slack](https://uiucstats.slack.com/archives/GNXPYSBL3) and ask a quick question!
 
 ## Quick Start
 
