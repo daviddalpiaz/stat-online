@@ -24,9 +24,9 @@ This document is now, and will likely always be a work in progress.
 ## General Wisdom
 
 - Organization! + Communication! + Engagement!
-- [Don't panic](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don't_Panic)
-- [KISS](https://en.wikipedia.org/wiki/KISS_principle)
-- [Perfect is the enemy of good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
+- [Don't panic](https://en.m.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don't_Panic)
+- [KISS](https://en.m.wikipedia.org/wiki/KISS_principle)
+- [Perfect is the enemy of good](https://en.m.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
 - You're probably already 50% of the way there.
 - Ask questions!
 
