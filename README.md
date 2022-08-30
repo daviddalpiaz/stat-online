@@ -254,4 +254,4 @@ This section tracks additional items that are not currently noted anywhere above
 - notes about accessibility issues
 - notes about copyright issues
 - video distribution practices: Variable bitrate options, Download options, Captioning
-- TODO: If you are recording or transmitting audio while also listening to audio (for example, Zoom meetings), wear headphones!
+- If you are recording or transmitting audio while also listening to audio (for example, Zoom meetings), wear headphones!
