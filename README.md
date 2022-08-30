@@ -232,36 +232,26 @@ The following are experienced online instructors and support staff. Reach out if
 This section tracks additional items that are not currently noted anywhere above.
 
 - Discuss accessibility. (PDF and HTML versus other formats.)
-- Phone PDF apps
-  - https://fossbytes.com/best-android-scanner-apps/
-  - https://www.techjeny.org/best-document-scanner-app-iphone-ipad/
-  - OSX Notes app
-- quizzing tools: PL, Lon Capa, Etc.
-- webtools (shortURLs)
-  - https://webtools.illinois.edu/
-- https://twitter.com/LISafterclass/status/1238117563466313736
-- "Pen and paper" office hours
+- [Webtools](https://publicaffairs.illinois.edu/services/webtools/)
+  -  Short URLs, other tools.
 - FERPA
 - https://citl.illinois.edu/about-citl/news/2020/04/28/citl-summer-2020-workshops---moving-your-course-online
 - https://atlas.illinois.edu/teaching-online
 - https://ops.citl.illinois.edu/
 - https://ops.citl.illinois.edu/for-students
 - https://www.lasonline.illinois.edu/faculty/policy/
-- https://github.com/enterprise (versus new campus license?)
-- gradescope (will it still be free to use?)
+- [gradescope](https://www.gradescope.com/)
 - information about blended learning
   - list of lecture capture enabled rooms: http://go.illinois.edu/LectureCapture
   - schedule a one time recording: http://go.illinois.edu/LectureCaptureScheduling
-- Slack? Discord? (If not for whole class, for course staff communications)
 - notes about audio best practices (use headphones! speak close to the microphone.)
 - notes about video best practices (lighting for video.)
 - https://go.citl.illinois.edu/keepteachingtutorials
 - https://citl.illinois.edu/citl-101/teaching-learning/resources/instructor-resources
 - If you are recording or transmitting audio while also listening to audio (for example, Zoom meetings) wear headphones!
-- Given the most frequently used devices for accessing course content, consider using slide with a 16x9 aspect ratio rather than the sometimes common 4x3.
+- Given the most frequently used devices for accessing course content, consider using slides with a 16x9 aspect ratio rather than the sometimes common 4x3.
 - provide examples of identity verified assignment solutions
 - notes about accessibility issues
 - notes about copyright issues
 - video distribution practices: Variable bitrate options, Download options, Captioning
 - TODO: If you are recording or transmitting audio while also listening to audio (for example, Zoom meetings), wear headphones!
-- TODO: consider 16*9 slides.
