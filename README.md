@@ -19,7 +19,9 @@ The following document describes some best practices, general wisdom, and variou
 - If you have additional information you would like added, please submit a pull request, create an issue, or just [email David Dalpiaz](mailto:dalpiaz2@illinois.edu).
 - This document can be accessed at https://go.illinois.edu/stat-online
 
-This document is now, and will likely always be a work in progress. **Note:** Minor edits were performed in Fall 2022, but beware of outdating information from Spring 2022 that is now likely out-of-date, for example references to Compass, Piazza, etc.
+This document is now, and will likely always be a work in progress. 
+
+- **Note:** Minor edits were performed in Fall 2022, but beware of outdating information from Spring 2022 that is now likely out-of-date, for example references to Compass, Piazza, etc.
 
 ## General Wisdom
 
