@@ -209,8 +209,8 @@ The following are experienced online instructors and support staff. Reach out if
 - Feng Liang (STAT 542)
 - Trevor Park (STAT 578)
 - Yuk Yung Liu (E-Learning Specialist, STAT 100, STAT 200)
-- Ha Khanh Nguyen (Data Science Support Specialist)
-- TODO: Add all members of online task force.
+- All members of the "Online Task Force."
+- As of Fall 2022: All members of the department.
 
 ## Additional Resources
 
