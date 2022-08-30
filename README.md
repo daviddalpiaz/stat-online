@@ -21,14 +21,14 @@ The following document describes some best practices, general wisdom, and variou
 
 This document is now, and will likely always be a work in progress. 
 
-- **Note:** Minor edits were performed in Fall 2022, but beware of outdated information from Spring 2020 that is now likely out-of-date, for example references to Compass, Piazza, etc.
+- **Note:** Minor edits were performed in Fall 2022, but beware that information from Spring 2020 remains that is now likely out-of-date, for example references to Compass, Piazza, etc.
 
 ## General Wisdom
 
 - Organization! + Communication! + Engagement!
-- [Don't panic](https://en.m.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don't_Panic)
-- [KISS](https://en.m.wikipedia.org/wiki/KISS_principle)
-- [Perfect is the enemy of good](https://en.m.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
+- [Don't panic!](https://en.m.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don't_Panic)
+- [KISS!](https://en.m.wikipedia.org/wiki/KISS_principle)
+- [Perfect is the enemy of good.](https://en.m.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
 - You're probably already 50% of the way there.
 - Ask questions!
 
@@ -84,7 +84,7 @@ In addition to an LMS (and Piazza if your chosen LMS does not have a forum), a c
   - Generally user friendly.
 - [Illinois Media Space](https://mediaspace.illinois.edu/)
   - A YouTube-like service maintained by the University.
-  - Include a built-in web-based recording tool.
+  - Includes a built-in web-based recording tool.
 - [Illinois Box](https://box.illinois.edu/)
    - Free unlimited storage!
    - Web interface and desktop apps.
