@@ -127,13 +127,18 @@ Since you won't be seeing your students three times a week, alternative communic
 
 - Weekly announcements!
   - Introduce week's topics, note deadlines.
-  - Roster access? Copy to student email!
+  - Roster access? Use to send copies of announcements via email to insure receipt.
     - Via LMS automatic rosters
     - Via [DMI](http://dmi.illinois.edu/)
     - Via [Self-Serice](https://apps.uillinois.edu/selfservice/)
-- [Piazza](https://piazza.com/)
-  - Highly recommended!
-  - Encourage posting on Piazza to reduce email.
+    - Via [ATLAS Photo Roster](https://atlas.illinois.edu/services/photo-roster)
+- ~~[Piazza](https://piazza.com/)~~
+  - ~~Highly recommended!~~
+  - ~~Encourage posting on Piazza to reduce email.~~
+- [Campuswire](https://answers.uillinois.edu/illinois/page.php?id=104844)
+  - FERPA compliant and University recommended discussion forum.
+- [Ed Discussion](https://edstem.org/)
+  - Potential Campuswire alternative.
 
 ## Office Hours
 
