@@ -225,7 +225,7 @@ The following are experienced online instructors and support staff. Reach out if
   - Be yourself! Make mistakes!
 - Course organization: Week or modular structure.
 - Clear messaging is necessary, especially for assignments and deadlines.
-- **Instructor presence is critical.** (answer questions on piazza!)
+- **Instructor presence is critical.** (Answer questions on the discussion forum!)
 
 ## Miscelaneous Notes
 
