@@ -201,7 +201,7 @@ Be aware of audio captioning. You may have received an email from DRES noting th
 
 ## Faculty "Advisors"
 
-The following are experienced online instructors and support staff. Reach out if you have questions. Several of us are very active on Slack.
+The following are experienced online instructors and support staff. Reach out if you have questions!
 
 - David Dalpiaz (STAT 420, STAT 432)
 - David Unger (STAT 420, STAT 440)
