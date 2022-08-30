@@ -116,8 +116,8 @@ This list is far from exhaustive and should grow over time.
 
 ## Learning Management Systems
 
-- Compass (Blackboard)
-- Canvas
+- ~~Compass (Blackboard)~~
+- **Canvas**
 - Moodle
 - Others
 
