@@ -105,7 +105,7 @@ This list is far from exhaustive and should grow over time.
   - Excellent quizzing tool developed at UIUC.
 - [Screencast-O-Matic](https://screencast-o-matic.com/)
   - Simple video recording and editing.
-- [Slack](https://slack.com/) o r[Discord](https://discord.com/)
+- [Slack](https://slack.com/) and [Discord](https://discord.com/)
   - Neither should be used as an official course technology, but students like them and will likely use them anyway.	
   - Discord, is a messaging platform particular popular among computer game players, thus popular among students.
 - [OBS](https://obsproject.com/)
