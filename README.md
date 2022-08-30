@@ -170,6 +170,7 @@ Zoom will likely be the key to holding online office hours.
 - [Windows 10: Screen Recorder](https://www.pcmag.com/how-to/how-to-capture-video-clips-in-windows-10)
 - [OSX: Screen Recorder](https://support.apple.com/en-us/HT208721)
 - [iOS: Screen Recorder](https://support.apple.com/en-us/HT207935)
+- [**OBS**](https://obsproject.com/)
 
 Many of these options have some simple editing tools built in. Generally, it is probably best to not worry too much about editing. As long as the content exists, that's a win.
 
@@ -177,20 +178,24 @@ Many of these options have some simple editing tools built in. Generally, it is 
 
 - [Illinois Media Space](https://mediaspace.illinois.edu/)
   - A YouTube-like service maintained by the University.
+  - Most official University video distribution service.
 - [Illinois Box](https://box.illinois.edu/)
   - Store videos in Box. Linking to the video will allow the video to be played in a web browser.
 - [YouTube](https://www.youtube.com/)
-  - Potentially inaccessible in China. Technically not recommended. Could be used as a backup to Illini Media Space.
+  - Potentially inaccessible in various regions. Technically not recommended. Could be used as a backup to Illini Media Space.
+- [ClassTranscribe](https://classtranscribe.illinois.edu/)
+  - Open source alternative to Media Space with *excellent* captioning support.
 
-Be aware of closed captioning. You may have received an email from DRES noting that you have a student that requires captioning. YouTube does auto-captioning fairly well. [Kaltura](https://mediaspace.illinois.edu/media/t/1_rjko9fw3/33192941) also has auto-captioning abilities now.
+Be aware of audio captioning. You may have received an email from DRES noting that you have a student that requires captioning. YouTube does auto-captioning fairly well, but work with DRES to determine what is appropriate and legally required. [Kaltura](https://mediaspace.illinois.edu/media/t/1_rjko9fw3/33192941) also has auto-captioning abilities now. [ClassTranscribe](https://classtranscribe.illinois.edu/) has excellent auto-caption and caption editing support.
 
 ## Exams
 
-Securely administering exams online is extremely difficult. This is a topic that will need to be given thought. Unless you are already using a quizzing tool such as [PrairieLearn](https://prairielearn.engr.illinois.edu/pl/) or LON-CAPA, it would probably be very difficult to transition quickly. Even with these tools, proctoring will be an issue. We may need to relax some of our expectations around security of exams.
+**Securely administering exams online is extremely difficult.** This is a topic that will need to be given thought. Unless you are already using a quizzing tool such as [PrairieLearn](https://prairielearn.engr.illinois.edu/pl/) or LON-CAPA, it would probably be very difficult to transition quickly. Even with these tools, proctoring will be an issue. We may need to relax some of our expectations around security of exams.
 
-- [Illinois ProctorU](https://www.proctoru.com/portal/illinois)
-  - Note: The Provost will be prohibiting additional fees incurred by students. (More information to come on this. As of 3/13, this is official, with a specific mention of proctoring services.)
-- Zoom "Manual Proctoring"
+- ~~[Illinois ProctorU](https://www.proctoru.com/portal/illinois)~~
+  - ~~Note: The Provost will be prohibiting additional fees incurred by students. (More information to come on this. As of 3/13, this is official, with a specific mention of proctoring services.)~~
+- Zoom "DIY Proctoring"
+  - Now "officially" supported thanks to [PrairieTest](https://www.prairietest.org/).
 - Make alternative assessments!
 - ???
 
